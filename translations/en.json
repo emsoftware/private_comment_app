@@ -1,12 +1,12 @@
 {
   "app": {
-    "description":  "Make private comments while writing your public comment.",
-    "name":         "Private comments"
+    "description":  "Make internal notes alongside your public comment.",
+    "name":         "Internal note"
   },
-  "comment_heading": "Private comment",
-  "comment_submit": "Comment!",
-  "comment_placeholder": "write private note here ...",
-  "comment_error_empty": "Comment cannot be empty",
-  "comment_success": "Private comment stored!<br/>Hidden until refresh.",
+  "comment_heading": "Internal note",
+  "comment_submit": "Submit",
+  "comment_placeholder": "write internal note here ...",
+  "comment_error_empty": "Note cannot be empty",
+  "comment_success": "Note stored.",
   "comment_error_request": ""
 }
